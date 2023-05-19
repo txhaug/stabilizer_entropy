@@ -5,9 +5,9 @@ Python code to measure stabilizer entropy (SE) using two copies of a state in th
 
 Companion Code for "Efficient measurement of stabilizer entropy" by S. Lee, M.S. Kim, T. Haug
 
-@Tobias Haug, Imperial College London thaug@ic.ac.uk
+@Tobias Haug, Imperial College London
 
-@Soovin Lee, Imperial College London soovinlee310@gmail.com
+@Soovin Lee, Imperial College London
 
 This code measures Tsallis SE using two copies of a state in the Bell basis. It implements three algorithms:
 
