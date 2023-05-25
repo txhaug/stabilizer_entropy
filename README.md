@@ -3,10 +3,9 @@ Program to efficiently compute stabilizer entropy with quantum computers.
 
 Python code to measure stabilizer entropy (SE) using two copies of a state in the Bell basis. Simulates various states with optional depolarizing noise and finite number of measurements. Runs on qiskit.
 
-Companion Code for "Efficient measurement of stabilizer entropy" by S. Lee, M.S. Kim, T. Haug
+Companion Code for "Efficient stabilizer entropies for quantum computers" by T. Haug, S. Lee and M.S. Kim 
 
 @Tobias Haug, Imperial College London
-
 @Soovin Lee, Imperial College London
 
 This code measures Tsallis SE using two copies of a state in the Bell basis. It implements three algorithms:
